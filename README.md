@@ -1,5 +1,9 @@
 # cpp-learning42u 🤔💭
-![C++ Logo (Wikipedia)](https://github.com/AllPlayed/cpp-learning42u/blob/main/cpp_logo_wikipedia.png?raw=true)
+
+<p align="center">
+  <img align="center" src="https://github.com/AllPlayed/cpp-learning42u/blob/main/cpp_logo_wikipedia.png?raw=true" width="95" height="110"></img>
+</p>
+
 🇪🇸 Este repositorio tiene todos los archivos y documentos que vaya generando conforme vaya aprendiendo el lenguaje de programación C++ en **42 Urduliz**.                                      
 🇺🇸 This repository has all the files and documents that you generate as you learn the C++ programming language in **42 Urduliz**.
 
